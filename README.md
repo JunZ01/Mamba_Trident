@@ -1,6 +1,7 @@
 # Mamba-Trident: Terrain-guided Tri-modal Mamba Network for Mapping Little Ice Age Glaciers
 
-Official implementation of the paper published in *<期刊名>*.
+Official implementation of the paper published in
+*International Journal of Applied Earth Observation and Geoinformation* (JAG).
 
 ## Contents
 - `src/models/` — proposed model architectures
@@ -17,7 +18,7 @@ Sentinel-1/2 imagery: Copernicus Data Space Ecosystem and Google Earth Engine.
 SRTM 30 m DEM: USGS EarthExplorer. Glacier outlines: RGI v6.0.
 
 ## Citation
-
+Citation details and DOI will be added upon publication.
 
 ## License
 Apache-2.0. See [LICENSE](LICENSE).
